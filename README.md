@@ -78,7 +78,7 @@ online-exam-portal/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/online-exam-portal.git
+   git clone https://github.com/your-username/QuizApplicationOnline.git
 ````
 
 2. Open the project folder
