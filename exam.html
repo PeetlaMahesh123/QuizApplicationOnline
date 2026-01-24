@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Online Exam</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body onload="checkAuth()">
+
+<h1>Java | SQL | Hibernate Exam</h1>
+
+<button onclick="logout()" class="logout-btn">Logout</button>
+
+<form id="quizForm">
+  <div id="quiz-container"></div>
+  <button type="submit">Submit Exam</button>
+</form>
+
+<div id="result"></div>
+
+<script src="auth.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
