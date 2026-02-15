@@ -16,6 +16,7 @@ A modern and responsive **Online Examination Platform** that allows students to 
 
 ---
 ## 🚀 Final Result
+<img width="502" height="470" alt="image" src="https://github.com/user-attachments/assets/7dd59ff3-0237-421e-acf4-eecdaa9a6b69" />
 
 ## 🛠️ Tech Stack
 
