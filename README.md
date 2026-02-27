@@ -98,5 +98,3 @@ Aspiring Full-Stack Java Developer
 📧 Email: [peetlamahesh81@gmail.com](mailto:peetlamahesh81@gmail.com)
 📍 Tirupati, Andhra Pradesh, India
 
----
-```
