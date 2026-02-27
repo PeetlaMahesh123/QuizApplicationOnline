@@ -89,44 +89,6 @@ online-exam-portal/
    git clone https://github.com/PeetlaMahesh123/QuizApplicationOnline.git
 ````
 
-2. Open the project folder
-
-3. Open `index.html` in your browser
-
-✔ No server required
-✔ Runs completely in the browser
-
----
-
-## 🌐 Live Demo (Optional)
-
-If deployed using GitHub Pages:
-
-```
-https://your-username.github.io/online-exam-portal/
-```
-
----
-
-## 💼 Recruiter Highlights
-
-* Demonstrates **authentication flow**
-* Shows **clean UI/UX design skills**
-* Uses **modular JavaScript**
-* Implements **protected routes**
-* Well-structured, readable, and scalable project
-
----
-
-## 🚀 Future Enhancements
-
-* ⏱️ Timed exams
-* 👨‍🏫 Admin panel to manage questions
-* 📊 Result analytics & dashboards
-* 🔗 Backend integration with **Spring Boot & MySQL**
-* 📱 React-based frontend
-
----
 
 ## 👨‍💻 Author
 
