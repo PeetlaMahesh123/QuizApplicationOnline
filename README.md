@@ -4,7 +4,7 @@ A modern and responsive **Online Examination Platform** that allows students to 
 
 ---
 ## Live link of Project:
-https://peetlamahesh123.github.io/QuizApplicationOnline/
+Link: https://peetlamahesh123.github.io/QuizApplicationOnline/
 
 ---
 
@@ -86,7 +86,7 @@ online-exam-portal/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/QuizApplicationOnline.git
+   git clone https://github.com/PeetlaMahesh123/QuizApplicationOnline.git
 ````
 
 2. Open the project folder
