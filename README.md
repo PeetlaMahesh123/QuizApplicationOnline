@@ -3,8 +3,10 @@
 A modern and responsive **Online Examination Platform** that allows students to register, log in securely, and attempt MCQ-based technical exams. The system automatically evaluates answers and displays results instantly, simulating a real-world online assessment environment.
 
 ---
-## Live link of Project:
-Link: https://peetlamahesh123.github.io/QuizApplicationOnline/
+## 🚀 Final Result
+<img width="502" height="470" alt="image" src="https://github.com/user-attachments/assets/7dd59ff3-0237-421e-acf4-eecdaa9a6b69" />
+<img width="567" height="851" alt="image" src="https://github.com/user-attachments/assets/72faf0d2-7080-4f8a-83fd-8b78b69fa394" />
+
 
 ---
 
