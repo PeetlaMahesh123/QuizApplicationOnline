@@ -14,6 +14,15 @@ Link: https://peetlamahesh123.github.io/QuizApplicationOnline/
 
 
 ---
+## 🚀 Features
+
+- 👤 **Student Signup & Login**
+- 🔐 **Authentication & Protected Routes**
+- 📝 **MCQ-based Online Exams**
+- ⚡ **Automatic Evaluation & Score Calculation**
+- 🚪 **Logout & Session Handling**
+- 🎨 **Clean, Responsive & Attractive UI**
+- 📚 Questions based on **Java, SQL, and Hibernate**
 
 
 ---
