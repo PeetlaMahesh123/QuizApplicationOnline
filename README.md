@@ -1,6 +1,5 @@
 # 🧪 Online Quiz Exam Application Portal
 
-A modern and responsive **Online Examination Platform** that allows students to register, log in securely, and attempt MCQ-based technical exams. The system automatically evaluates answers and displays results instantly, simulating a real-world online assessment environment.
 
 ---
 ## Live link of Project:
