@@ -21,9 +21,7 @@ Link: https://peetlamahesh123.github.io/QuizApplicationOnline
 - ⚡ **Automatic Evaluation & Score Calculation**
 - 🚪 **Logout & Session Handling**
 - 🎨 **Clean, Responsive & Attractive UI**
-- 📚 Questions based on **Java, SQL, and Hibernate**
-
----
+- 📚 Questions based on Java, SQL, and Hibernate
 
 ---
 ## 🛠️ Tech Stack
