@@ -4,7 +4,7 @@ A modern and responsive **Online Examination Platform** that allows students to 
 
 ---
 ## Live link of Project:
-
+Link: https://peetlamahesh123.github.io/QuizApplicationOnline
 
 ---
 ## 🚀 Final Result
