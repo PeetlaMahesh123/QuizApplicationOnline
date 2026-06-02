@@ -44,18 +44,7 @@ Link: https://peetlamahesh123.github.io/QuizApplicationOnline
 
 ```
 
-online-exam-portal/
-│
-├── index.html        # Entry point (redirects to login)
-├── login.html        # Login page
-├── signup.html       # Signup page
-├── exam.html         # Protected exam page
-│
-├── style.css         # Common styling for all pages
-├── auth.js           # Authentication logic (login, signup, logout)
-├── script.js         # Quiz logic & evaluation
-│
-└── README.md         # Project documentation
+
 
 ````
 
