@@ -35,8 +35,7 @@ Link: https://peetlamahesh123.github.io/QuizApplicationOnline
 - Browser `localStorage` (Session simulation)
 
 ### Tools & Platform
-- Git & GitHub
-- GitHub Pages (Deployment)
+
 
 ---
 
